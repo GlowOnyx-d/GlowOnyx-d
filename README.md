@@ -17,16 +17,3 @@
 </p>
 
 </details>
-
-<details>
-<summary><code>venom</code></summary>
-
-<p align="center">
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlowOnyx-d/GlowOnyx-d/output-venom/venom-eats-contributions-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlowOnyx-d/GlowOnyx-d/output-venom/venom-eats-contributions.svg" />
-<img alt="contribution graph animation" src="https://raw.githubusercontent.com/GlowOnyx-d/GlowOnyx-d/output-venom/venom-eats-contributions.svg" />
-</picture>
-</p>
-
-</details>
