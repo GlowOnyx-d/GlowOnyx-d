@@ -1,16 +1,32 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
 
-<!--
-**GlowOnyx-d/GlowOnyx-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzZwZHM4bTNoNjd3cmx5NDI5a3VnODNlN2VqYmlvNG8xdG93N2RsaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5xRW2cUKfcyQg/giphy.gif" alt="Pixel Art Cat" width="180" />
+</p>
 
-Here are some ideas to get you started:
+<details>
+<summary><code>Stats</code></summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<!-- Readme Frames Animation (Requires the forked repo setup we discussed) -->
+<img src="https://raw.githubusercontent.com/GlowOnyx-d/readme-frames/master/assets/intro-card.gif" alt="Animated Intro Card" width="800" />
+<br />
+<img src="https://raw.githubusercontent.com/GlowOnyx-d/readme-frames/master/assets/skills-ticker.gif" alt="Skills Ticker" width="800" />
+<br />
+<img src="https://raw.githubusercontent.com/GlowOnyx-d/readme-frames/master/assets/commit-chart.gif" alt="Commits Graph" width="800" />
+</p>
+
+</details>
+
+<details>
+<summary><code>venom</code></summary>
+
+<p align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GlowOnyx-d/GlowOnyx-d/output-venom/venom-eats-contributions-dark.svg" />
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GlowOnyx-d/GlowOnyx-d/output-venom/venom-eats-contributions.svg" />
+<img alt="contribution graph animation" src="https://raw.githubusercontent.com/GlowOnyx-d/GlowOnyx-d/output-venom/venom-eats-contributions.svg" />
+</picture>
+</p>
+
+</details>
